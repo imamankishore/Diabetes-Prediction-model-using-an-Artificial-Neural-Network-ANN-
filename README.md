@@ -36,4 +36,4 @@ This project implements an **Artificial Neural Network (ANN)** for predicting th
 ## ▶️ How to Run
 1. Clone this repository
    ```bash
-   git clone <your-repo-link>
+   git clone <[your-repo-link](https://github.com/imamankishore/Diabetes-Prediction-model-using-an-Artificial-Neural-Network-ANN)>
